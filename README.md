@@ -1,4 +1,4 @@
-# Tree View Assignment
+# react-tree-view
 
 This is a frontend assignment built using **React + TypeScript + Vite**.
 
